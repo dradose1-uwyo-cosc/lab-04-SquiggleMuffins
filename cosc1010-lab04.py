@@ -109,5 +109,5 @@ print(f"{sum_low/365}")
 
 # For the next part, determine the highest and lowest recorded temperatures.
 # HINT: You can find this information without using any logic or looping.
-
-
+print(max(max_temps))
+print(min(min_temps))
